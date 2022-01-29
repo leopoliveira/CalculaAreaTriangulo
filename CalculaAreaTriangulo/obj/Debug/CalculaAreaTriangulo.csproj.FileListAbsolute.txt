@@ -1,0 +1,8 @@
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\CalculaAreaTriangulo\CalculaAreaTriangulo\bin\Debug\CalculaAreaTriangulo.exe.config
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\CalculaAreaTriangulo\CalculaAreaTriangulo\bin\Debug\CalculaAreaTriangulo.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\CalculaAreaTriangulo\CalculaAreaTriangulo\bin\Debug\CalculaAreaTriangulo.pdb
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\CalculaAreaTriangulo\CalculaAreaTriangulo\obj\Debug\CalculaAreaTriangulo.csproj.AssemblyReference.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\CalculaAreaTriangulo\CalculaAreaTriangulo\obj\Debug\CalculaAreaTriangulo.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\CalculaAreaTriangulo\CalculaAreaTriangulo\obj\Debug\CalculaAreaTriangulo.csproj.CoreCompileInputs.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\CalculaAreaTriangulo\CalculaAreaTriangulo\obj\Debug\CalculaAreaTriangulo.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\CalculaAreaTriangulo\CalculaAreaTriangulo\obj\Debug\CalculaAreaTriangulo.pdb
